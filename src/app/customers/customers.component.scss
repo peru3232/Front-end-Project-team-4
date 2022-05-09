@@ -1,0 +1,13 @@
+img {
+    height: 250px;
+    width: 350px;
+}
+
+.zoom {
+    transition: transform 0.2s;
+    /* Animation */
+}
+
+.zoom:hover {
+    transform: scale(1.05);
+}

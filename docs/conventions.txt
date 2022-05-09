@@ -1,0 +1,10 @@
+camelCase
+angular components
+symbols from fontawesome
+scss
+routing
+pixabay assets (copyright free)
+use images from websites (linked)
+rather use the link tag in the head of index.html instead of installing modules in angular directly
+use the same radius for all img borders
+use bootstrap classes over scss/css

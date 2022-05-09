@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAA;EACN,GAAG,EAAC,GACR;CAAC;;AACD,AAAA,GAAG,CAAA;EACC,aAAa,EAAE,GACnB;CAAC",
+    "sources": [
+        "../src/app/awards/awards.component.scss"
+    ],
+    "names": [],
+    "file": "awards.component.css"
+}

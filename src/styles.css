@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+a {
+  color: #312b2b;
+  text-decoration: none;
+}
+a:hover {
+  color: #fc8e8e !important;
+}
+
+h1 {
+  font-family: "Great Vibes";
+}/*# sourceMappingURL=styles.css.map */

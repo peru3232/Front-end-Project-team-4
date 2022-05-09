@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,GAAG,CAAC;EACA,aAAa,EAAE,GAAG;EAClB,UAAU,EAAE,KAAK;CACpB",
+    "sources": [
+        "../src/app/portfolio/portfolio.component.scss"
+    ],
+    "names": [],
+    "file": "portfolio.component.css"
+}

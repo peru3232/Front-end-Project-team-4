@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,GAAG,CAAC;EACA,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,KAAK;CACf;;AAED,AAAA,KAAK,CAAC;EACF,UAAU,EAAE,cAAc;EAC1B,eAAe;CAClB;;AAED,AAAA,KAAK,AAAA,MAAM,CAAC;EACR,SAAS,EAAE,WAAW;CACzB",
+    "sources": [
+        "../src/app/customers/customers.component.scss"
+    ],
+    "names": [],
+    "file": "customers.component.css"
+}
