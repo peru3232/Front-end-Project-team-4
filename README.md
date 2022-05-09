@@ -1,4 +1,17 @@
 # TeamProjectGrp4
+Project was an photographer side created 100% Remote with 4 team members with Angular.
+Working with SCRUM/Kanban Methodes planning on draw.io and with Trello Board
+This project was done as the solution for the final project of the front end course at code factory.
+
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. 
+
+
+Please view the assignment.pdf to view the expected results.
+
+Cheers!
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
