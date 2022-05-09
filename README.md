@@ -7,7 +7,7 @@ This project was done as the solution for the final project of the front end cou
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. 
 
 
-Please view the assignment.pdf to view the expected results.
+Please view the assignment and projects description in docs folder to view the expected results.
 
 Cheers!
 
